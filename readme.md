@@ -1,5 +1,10 @@
 # Homework 10
 
+## Pytest Coverage
+![coverage](https://github.com/yash-kamlesh-shah/yash-kamlesh-shah-IS601-Homework10-Spring2025-yks/blob/main/Homework10_Coverage.png)
+
+## Docker Hub
+![dockerhub](https://github.com/yash-kamlesh-shah/yash-kamlesh-shah-IS601-Homework10-Spring2025-yks/blob/main/Homework10_Dockerhub.png)
 [Dockerhub_Link](https://hub.docker.com/repository/docker/ykshah1309/event_manager/general)
 
 ## closed issues:
